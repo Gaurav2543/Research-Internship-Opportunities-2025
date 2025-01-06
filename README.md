@@ -1,6 +1,6 @@
 # Research Internships for Summer/Post-Summer 2025
 
-This repository contains a curated list of research internships for the summer or post-summer of 2025. The internships are categorized by region and field of study. I hope this list can benefit other students looking for research opportunities.
+This repository contains a curated list of research internships for the summer or post-summer of 2025. The internships are categorized by region. These internships include opportunities in both, Bioinformatics and Computer Science domains. I hope this list can benefit other students looking for research opportunities.
 
 ## Table of Contents
 
@@ -101,7 +101,7 @@ This repository contains a curated list of research internships for the summer o
 | KAUST                                               | Saudi Arabia   | Year-Round                  | [Link](https://vsrp.kaust.edu.sa/internship)                                                                              | CGPA-cutoff: 8.75       |
 | Kyoto University                                    | Japan          | -                           | [Link](https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/non-degree-programs/research-students)      | Mail Faculty Directly |
 
-**Note:** CGPA-cutoff values are out of 10. This list is made with a focus on the European Region and while it covers almost all the opportunities open to international students in Europe and UK, the list for opportunities in America is very limited and requires further exploration. Please note that the application deadlines may change for years to follow in the future. You can check the official websites for the most up-to-date information. 
+**Note:** CGPA-cutoff values are out of 10. This list is made with a focus on the European Region and while it covers almost all the opportunities open to international students in Europe and UK, the list for opportunities in America is very limited and requires further exploration. Please note that some of the opportunities in this list are bioinformatics specific. Please note that the application deadlines may change for years to follow in the future. You can check the official websites for the most up-to-date information. 
 
 ## Contributing
 
